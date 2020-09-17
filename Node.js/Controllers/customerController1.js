@@ -155,7 +155,7 @@ module.exports = {
             }
 
             else {
-                res.statusCode = 404;
+                res.statusCode = 205;
                 console.log("RESULT:", result);
                 res.json({ status: "OK", msg: "Poistettu"})
             }
