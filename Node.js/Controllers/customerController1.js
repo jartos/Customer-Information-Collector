@@ -52,7 +52,7 @@ module.exports = {
         });
     },
 
-    create: (req, res) => {                               // TEHT 6
+    create: (req, res) => {                               
 
         console.log("CREATE: ", req.body);
         
@@ -60,7 +60,7 @@ module.exports = {
         let q = "INSERT INTO asiakas (NIMI, OSOITE, POSTINRO, POSTITMP, LUONTIPVM, ASTY_AVAIN) VALUES(?, ?, ?, ?, ?, ?)";
     
       
-        if (req.body.NIMI == "") {                                       // TEHT 7
+        if (req.body.NIMI == "") {                                       
             
             res.json({ status: "NOT OK", msg: "Nimi puuttuu" });
         }
