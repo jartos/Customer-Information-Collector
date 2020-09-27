@@ -1,4 +1,4 @@
-# Customer-Information-Collector
+# Customer-Information-Manager
 
 This app is made for managing customer information. 
 
