@@ -3,9 +3,12 @@
 This app is made for saving customer information. 
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>First name</li>
+  <li>Last name</li>
+  <li>Address</li>
+  <li>Postal code</li>
+  <li>City</li>
+  <li></li>
 </ul>
 
 Frontend: React
