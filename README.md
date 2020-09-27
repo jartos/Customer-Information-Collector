@@ -16,3 +16,5 @@ This app is made for managing customer information.
 Frontend: React
 
 Backend: Node.js
+
+Database: Local MySQL database
