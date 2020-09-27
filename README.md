@@ -2,5 +2,6 @@
 
 This app is made for saving customer information. 
 
-Frontend: React 
+Frontend: React
+
 Backend: Node.js
