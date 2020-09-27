@@ -12,14 +12,6 @@ This app is made for saving customer information.
   <li>Edit date</li>
 </ul>
 
-const [avain, setAvain] = useState('');
-  const [nimi, setNimi] = useState('');
-  const [osoite, setOsoite] = useState('');
-  const [postinro, setPostinro] = useState('');
-  const [postitmp, setPostitmp] = useState('');
-  const [luontipvm, setLuontipvm] = useState('');
-  const [asty_avain, setAsty_avain] = useState('');
-  const [alkupmuutospvm, setAlkupmuutospvm] = useState('');
 
 Frontend: React
 
