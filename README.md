@@ -1,6 +1,6 @@
 # Customer-Information-Collector
 
-This app is made for saving customer information. 
+This app is made for managing customer information. 
 
 <ul>
   <li>Customer ID</li>
