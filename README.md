@@ -2,7 +2,7 @@
 
 This app is made for managing customer information.
 <br></br>
-CRUD (Create Read Update Delete) actions:
+CRUD (Create Read Update Delete) actions for:
 
 <ul>
   <li>Customer ID</li>
