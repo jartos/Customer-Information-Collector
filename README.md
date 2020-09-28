@@ -1,7 +1,7 @@
 # Customer-Information-Manager
 
 This app is made for managing customer information.
-Create Read Update Delete 
+Create Read Update Delete.
 
 <ul>
   <li>Customer ID</li>
